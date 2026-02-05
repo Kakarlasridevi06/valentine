@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+    margin: 20px;
+    background-color: lightpink;
+}
+#container{
+    margin: auto;
+    padding: 20px;
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+#giphy{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+#giphy1{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+.text{
+    padding: 7px;
+    margin: 15px;
+    margin-left: 250px;
+}
+#Yes{
+    color: white; 
+    background-color: rgba(212, 25, 75, 0.871);
+    border: 1px solid  rgb(220, 57, 85);
+    margin-left: 190px;
+    position: absolute;
+     
+}
+button{
+    outline: none;
+    border: none;
+    padding:5px 15px;
+    border:2px 5px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+    margin: 30px;
+    margin-top: 50px;
+}
+#No{
+    padding: 6px 25px;
+    margin-left: 370px;
+
+}
+ 
