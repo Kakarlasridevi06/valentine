@@ -14,10 +14,11 @@ Yes.addEventListener("click",()=>{
     a.innerHTML=`
     <h2 class="text">💖  YAY!!!   💖</h2>
     <P class="text">Best decision ever ❤️</P>
-    <img src="../../../Assets/images/giphy (1).gif" id="giphy1">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR2OGpza3QxNHlzODlseWY1dzQ4dndhbGFqM3FtY3k3ajh5enk3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYo1DFS8NLhhqzzjMU/giphy.gif" id="giphy1">
     <h2 class="text">I Love You🩷</h2>
     `;
     a.style.padding=35+"px";
     a.style.margin="auto";
+
 
 })
